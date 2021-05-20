@@ -1,1 +1,2 @@
 # AQI-Project
+ An exclusive ML Model that predicts the AQI(Air Quality Index) of the places in Bangalore city, India based on collected data of last five years(2013-2016).The Model is created using various ML Algorithms (linear regression, logistic regression, KNN, random forest and Xgboost Regressor ) and DL Algorithm (ANN),following the complete end to end data science lifecycle involving Data Collection, EDA ,Feature Engineering, and Feature Selection, Model training and validation.)
